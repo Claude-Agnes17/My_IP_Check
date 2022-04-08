@@ -1,2 +1,2 @@
-# IP_Comfirm
-ip comfirm
+# my ip check
+ip Check
